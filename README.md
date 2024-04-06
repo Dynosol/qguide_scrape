@@ -1,3 +1,4 @@
 The important files are:
 
-qguide_scrape.ipynb
+* qguide_scrape.ipynb
+* course_data.json
