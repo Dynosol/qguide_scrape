@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/sol/Harvard Freshman Year/Crimson/Data/qguide_scrape/venv/bin/python" "$0" "$@"
+'''exec' "/Users/sol/Harvard Sophomore Year/Crimson/qguide_scrape/venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
