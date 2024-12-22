@@ -8,6 +8,9 @@ everything else you can ignore
 
 
 ```
+FROM: https://q.fas.harvard.edu/about
+
+
 About the Q
 The Q is a great example of a win-win collaboration: students' evaluations are aggregated into the Q Guide (formerly the CUE Guide), an important student resource during shopping week - and faculty can tailor questions and learn from valuable student insight.
 
